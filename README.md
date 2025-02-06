@@ -11,4 +11,17 @@
   - 16.00 | Online - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335096)
 
 - Tuesday
-  -
+  - 10.00 | E416 - [COMP1162 - Math for Computer Technology](https://learn.georgebrown.ca/d2l/home/330725)
+  - 18.00 | Online - [COMP1234 - Introduction to Web Development](https://learn.georgebrown.ca/d2l/home/342908)
+
+- Wednesday
+  - 15.00 | C410 - [COMP1234 - Introduction to Web Development](https://learn.georgebrown.ca/d2l/home/342908)
+
+- Thursday
+  - 10.00 | E329 - [COMP1238 - Introduction to Data Management](https://learn.georgebrown.ca/d2l/home/334969)
+  - 12.00 | E416 - [COMP1162 - Math for Computer Technology](https://learn.georgebrown.ca/d2l/home/330725)
+  - 14.00 | C410 - [COMP1236 - Fundamentals of Computing Logic](https://learn.georgebrown.ca/d2l/home/337951)
+
+- Friday
+  - 11.00 | C301A - [COMM2000 - Communicating Across Contexts](https://learn.georgebrown.ca/d2l/home/325120)
+  - 14.00 | C404 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335096)
