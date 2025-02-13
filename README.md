@@ -26,7 +26,7 @@
   - 11.00 | C301A - [COMM2000 - Communicating Across Contexts](https://learn.georgebrown.ca/d2l/home/325120)
   - 14.00 | C404 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335096)
 
+## GBC COMP1234 Template
 
-[![Download](https://img.shields.io/badge/Download-PDF-blue)](https://github.com/berhanerdogan/notes/blob/main/template.html)]
 
 
