@@ -26,22 +26,5 @@
   - 11.00 | C301A - [COMM2000 - Communicating Across Contexts](https://learn.georgebrown.ca/d2l/home/325120)
   - 14.00 | C404 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335096)
 
-## GBC COMP1234 Template
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Template</title>
-<meta name="description" content="This is a basic HTML template.">
-<meta name="keywords" content="info keywords"> <!-- provides search engines a page's content -->
-<meta name="author" content="Your Name">
-<link href="favicon.ico" rel="shortcut icon">
-</head>
-<body>
-<!-- HTML code goes here -->
-<script src="https://my.gblearn.com/js/loadscript.js"></script>
-</body> </html>
-
 
 
