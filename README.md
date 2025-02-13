@@ -27,4 +27,6 @@
   - 14.00 | C404 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335096)
 
 
-[[!Download(https://github.com/berhanerdogan/notes/blob/main/template.html)](https://github.com/berhanerdogan/notes/blob/main/template.html)]
+[![Download](https://img.shields.io/badge/Download-PDF-blue)](https://github.com/berhanerdogan/notes/template.html)]
+
+
