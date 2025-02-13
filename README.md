@@ -25,3 +25,6 @@
 - Friday
   - 11.00 | C301A - [COMM2000 - Communicating Across Contexts](https://learn.georgebrown.ca/d2l/home/325120)
   - 14.00 | C404 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335096)
+
+
+[COMP1234 HTML Template](https://github.com/berhanerdogan/notes/blob/main/template.html)
