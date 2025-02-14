@@ -26,5 +26,8 @@
   - 11.00 | C301A - [COMM2000 - Communicating Across Contexts](https://learn.georgebrown.ca/d2l/home/325120)
   - 14.00 | C404 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335096)
 
+---
+
+![Rigby](https://66.media.tumblr.com/5b2f09d369c2a13e267cf8ff9e86eace/tumblr_o6riiecfji1so18vqo1_500.gif)
 
 
