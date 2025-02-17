@@ -2,7 +2,7 @@
 
 ## 7 JANUARY
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 ### Archticetcture of the Internet
 
@@ -16,14 +16,14 @@
 - HTML document that storeed on o web server and does not change.
 - .html extensions.
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 ### Dynamic Web Pages
 
 - Web page created by a script, info is not a file in server.
 - Amazon sends a script that basically creates a html for the results of the search.
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 ---
 
@@ -65,7 +65,7 @@ help an application run more efficiently.
 - Clients send requests and server responds.
 - Server can be client and client can be server, but usually a different powerful machine designed for this purpose is teh server.
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 >HTTP: Hyper Text Transfer Protocol <br>
 HTTPS: Hyper Text Transfer Protocol Secure <br>
@@ -82,7 +82,7 @@ FTP: File Transfer Protocol
 
 ### Uniform Resource Locators (URL)
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
 - **Protocol**
 - **Domain** 
@@ -92,7 +92,7 @@ FTP: File Transfer Protocol
 - **Port** A port is a logical endpoint used in networking to identify specific processes or services running on a device. It allows multiple services to communicate over the same IP address.
   - Basically it clarifies which service is going to enter from which door.
 
-    ![alt text](image-7.png)
+    ![alt text](img/image-7.png)
 
 ### HTTP Request Methods
 
@@ -122,7 +122,7 @@ Operating system-Software-Database-Scripting Language
 
 ### Fetching a Web Page
 
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 
 ## 21 JANUARY
 
@@ -142,7 +142,7 @@ Operating system-Software-Database-Scripting Language
     - **Sibling Directory,** `<a href="../example.html">`>
     - **Root Reference,** `<a href="/public_html/comp1234/example.html">`
 
-      ![alt text](image-9.png)
+      ![alt text](img/image-9.png)
 
 ### HTML Basics
 
@@ -158,7 +158,7 @@ Operating system-Software-Database-Scripting Language
 
 - **CSS Rule:**
 
-   ![alt text](image-10.png)
+   ![alt text](img/image-10.png)
 
 - **Comments:** `/*This is a comment*/`
 - **External CSS link (head section):** `<link rel="stylesheet" href="example.css">`
@@ -167,12 +167,12 @@ Operating system-Software-Database-Scripting Language
 
 ### HTML Syntax
 
-![alt text](image-11.png)
+![alt text](img/image-11.png)
 **Anchor tag with href attribute**
 
 ### Structure
 
-![alt text](image-12.png)
+![alt text](img/image-12.png)
 
 1. `<!DOCTYPE html>` Tells the browser what type of document it is about to process.
 2. `<html>`, `<html lang="en">` The `<html>` element is sometimes called the root element as it contains all the other HTML
@@ -186,7 +186,7 @@ being used.
 
 ---
 
-![alt text](image-13.png)
+![alt text](img/image-13.png)
 
 1. `<h1>` Headings, there are six levels of headings.
 2. `<p>` Paragraphs, block-level. Container.
@@ -201,11 +201,11 @@ being used.
 in HTML5 for describing structural elements in
 a document, footer
 
-![alt text](image-14.png)
+![alt text](img/image-14.png)
 
 ### HTML Semantic Structure
 
-![alt text](image-15.png)
+![alt text](img/image-15.png)
 
 ## 4 FEBRUARY
 
@@ -219,7 +219,7 @@ element, or, most commonly, in a separate text file that contains only CSS.
 
 ### CSS Syntax
 
-![alt text](image-16.png)
+![alt text](img/image-16.png)
 
 ### Selectors
 
@@ -229,13 +229,13 @@ element, or, most commonly, in a separate text file that contains only CSS.
 - You need to use **[]** for attribute selectors.
   - Example: `[title]`
 
-![alt text](image-17.png)
+![alt text](img/image-17.png)
 
 ### Pseudo-Elements and Selectors
 
 - A pseudo-element selector is a way to select something that does not exist explicitly as an element in the HTML document tree.
 
-![alt text](image-18.png)
+![alt text](img/image-18.png)
 
 ### Contextual Selectors
 
@@ -258,7 +258,7 @@ specified element.
   - All siblings of a specified element that come after it, regardless of whether they are adjacent or not.
   - `h3~p{}`
 
-![alt text](image-19.png)
+![alt text](img/image-19.png)
 
 ### Cascade
 
@@ -282,7 +282,7 @@ body{
 
 - **Spesificity Algorithm:** 
 
-![alt text](image-20.png)
+![alt text](img/image-20.png)
 
 - **Location:** Finally, when inheritance and specificity cannot determine style precedence, the principle of location will be used.
   - For instance, an inline style will override one defined in an external author style sheet or an embedded style sheet.
@@ -294,9 +294,9 @@ body{
 - Central concept is all HTML elements can be considered a box and each of those boxes has 5 modifiable dimensions.
   - Height, width, padding, border, margin.
 
-    ![alt text](image-21.png) 
+    ![alt text](img/image-21.png) 
 
-    ![alt text](image-22.png)
+    ![alt text](img/image-22.png)
 
 - **Height of Box** = ( top margin + top border + top padding) + height + ( bottom padding + bottom border + bottom margin
 - **Width of Box** = ( left margin + left border + left padding) + width + ( right padding + right border + right margin )
