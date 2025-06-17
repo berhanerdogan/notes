@@ -106,7 +106,7 @@ grid-template-areas:
 
 ### JS Break Continue 
 ```
-Math.random() * (max- min) + min;
+Math.floor(Math.random() * (max - min)) + min;
 ```
 
 - The continue statement end the current
@@ -119,7 +119,7 @@ let isRegistered = true;
 
 while(isRegistered){
         console.log("Inside of the while loop");
-        let numberRand = 4; //get a random number between 100 and 1
+        let numberRand = Math.floor((Math.random() * 99) + 1); //get a random number between 100 and 1
         console.log("Random number: " + numberRand);
         /*//if random number divisible by three
         if (numberRand % 3 === 0){
