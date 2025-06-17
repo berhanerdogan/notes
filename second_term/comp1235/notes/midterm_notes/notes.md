@@ -121,12 +121,12 @@ while(isRegistered){
         console.log("Inside of the while loop");
         let numberRand = Math.floor((Math.random() * 99) + 1); //get a random number between 100 and 1
         console.log("Random number: " + numberRand);
-        /*//if random number divisible by three
+        //if random number divisible by three
         if (numberRand % 3 === 0){
             continue;
         }
         console.log("The number was not divisible by three.")
-*/
+
         //if random number divisible by four
         if (numberRand % 4 === 0 ){
             break;
