@@ -17,7 +17,8 @@ display: flex;
 lex-flow: row wrap;
 flex-direction: row ; //NOTE ROW IS  DEFAULT
 flex-wrap: wrap;
-justify-content: space-evenly; //align the item on the main axis
+justify-content //align the item on the main axis
+justify-content: space-evenly; 
 justify-content: flex-start  //if the direction is row
 align-items: center: // align the item on the horizontal axis
     //the align-items property of        flex-box aligns the items inside a  flex container along the cross axis just like justify-content does along the main axis.
