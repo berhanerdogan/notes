@@ -124,6 +124,7 @@ meaning to the compiler.
 ## Using Data
 
 - Data Types
+
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 
