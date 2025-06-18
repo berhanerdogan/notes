@@ -166,19 +166,21 @@ quotation marks (e.g., 'A')
 ![alt text](image-7.png)
 
 - **State controlled loop ===> While/do-while
+
 '''
 while (i>10)
 '''
+
 - **Count controlled ====> for
 - **Sentinel-Controlled Loop: A loop that continues until a special "sentinel" value is entered, which signals the end of input or processing
+
 '''
-        input = Convert.ToInt32(Console.ReadLine());
+input = Convert.ToInt32(Console.ReadLine());
+while (input != -1)
+{
+  sum += input;
+  input = Convert.ToInt32(Console.ReadLine());
+}
+Console.WriteLine("Toplam: " + sum);
+'''
 
-        while (input != -1)
-        {
-            sum += input;
-            input = Convert.ToInt32(Console.ReadLine());
-        }
-
-        Console.WriteLine("Toplam: " + sum);
-  '''
