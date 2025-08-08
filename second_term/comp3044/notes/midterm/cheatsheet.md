@@ -98,8 +98,8 @@ which --> searches the path of the command
 alias name=command
 alias mycal="cal 2019"
 -------------
-more
-less
+more --------> ude "/" to start  a search 
+less --------> ude "/" to start  a search 
 head
 tail
 --------------
@@ -128,4 +128,15 @@ cut -f --> filed based
 --------------
 read --> user input
 --------------
+arch --> To see which family the CPU of the current system belongs to
+lscpu --> info about cpu
+--------------
+free  --> shows ram info also swap too
+free -m --> megabyte flag
+free -g -- gigabyte flag
+--------------
+lspci  --> Peripheral devices (PCI Peripheral Component Interconnect)
+--------------
+lsusb --> same thing with usb devices
+
 ```
