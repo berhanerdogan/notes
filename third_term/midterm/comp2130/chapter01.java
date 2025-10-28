@@ -14,7 +14,7 @@
 // Program executed from main method
 // Statement terminator --> ;
 // Reserved  words --> pupblic, class, static etc.
-// Blociks --> {}
+// Blocks --> {}
 // Array --> []
 // "" string
 public class Chapter01 {
