@@ -6,8 +6,8 @@
 delivery, and continual improvement, and it encourages rapid and
 flexible response to change
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](img/image.png)
+![alt text](img/image-1.png)
 
 ## SCRUM
 
@@ -25,7 +25,7 @@ possible.
 - Time-boxing
 - Iterative Development
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 ## SCRUM Team Roles
 
@@ -66,8 +66,8 @@ n   ext sprint.
 
 ## SCRUM Principles
 
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](img/image-3.png)
+![alt text](img/image-4.png)
 
 - **Emprical Process Control** is based on observation and experimentation instead of detailed, upfront planning and defined process
 - **Scrum teams** are **self-organizing** and the team chooses how best to
@@ -77,7 +77,7 @@ even the Scrum Master
 - **Product backlog** items or software features are prioritized based on theri business value addition.
   - The “business value” could be derived by getting customer input based on interviews, surveys and then analysed using financial analytical tools
   
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 - **User Stories** are impleneted as features gradually in multiple iterations.
   - Sprint team better understands the story after each iteration
@@ -86,9 +86,9 @@ even the Scrum Master
 
 ## SCRUM Aspects
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
-![alt text](image-7.png)
+![alt text](img/image-7.png)
 
 - **Business Justification**, means that the development and implementation would add value to the organization wheter its tangible or intangible.
 - Tangible value could be assessed using financial tools such as ROI
@@ -105,11 +105,11 @@ service etc.
   - Changes in user stories will trigger change in the Prioritized Product Backlog and the process of updating both items is called “Grooming” the Product Backlog.
 - **Risk**  is defined as “an uncertain event that can affect the objectives of a project and may contribute to its success or failure.”
 
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 
 ## SCRUM Processes
 
-![alt text](image-9.png)
+![alt text](img/image-9.png)
 
 
 ## User Stories and Personas
@@ -179,7 +179,7 @@ A **Persona** is a fictional representation of a typical user based on research 
 * **User Stories** describe *what* those users need.
 * Personas make user stories more realistic and user-centered.
 
-![alt text](image-10.png)
+![alt text](img/image-10.png)
 
 ## Backlog
 
@@ -190,17 +190,17 @@ A **Persona** is a fictional representation of a typical user based on research 
   - Technical Work
   - Knowledge acquisition
 
-    ![alt text](image-11.png)
+    ![alt text](img/image-11.png)
 
 ## Prioritizaition
 
-![alt text](image-12.png)
+![alt text](img/image-12.png)
 
 
 # Agile Project Management
 
 ### Traditional vs Agile Planning
-![alt text](image-13.png)
+![alt text](img/image-13.png)
 
 ## SCRUM Estimation Techniques
 
@@ -221,7 +221,7 @@ A **Persona** is a fictional representation of a typical user based on research 
 - **Technology Risk Based**
   - In this method, requirements are prioritized based on the risk associated in implementing it.
 
-![alt text](image-14.png)
+![alt text](img/image-14.png)
 
 ### Story Point Estimation Techniques
 
@@ -229,13 +229,13 @@ A **Persona** is a fictional representation of a typical user based on research 
   - Participants use specially-numbered playing cards to vote for an estimate of an item. 
 
 
-![alt text](image-15.png)
-![alt text](image-16.png)
+![alt text](img/image-15.png)
+![alt text](img/image-16.png)
 
 
 ### Task Mapping
 
-![alt text](image-17.png)
+![alt text](img/image-17.png)
 
 ## Agile Project Justification
 
@@ -249,7 +249,7 @@ A **Persona** is a fictional representation of a typical user based on research 
 
 ### NPV - Net Present Value
 
-- ![alt text](image-18.png)
+- ![alt text](img/image-18.png)
 
 ### Payback Period
 
@@ -264,7 +264,7 @@ A **Persona** is a fictional representation of a typical user based on research 
   - “Quality assurance refers to the evaluation of processes and standards that govern quality management in 
 
 
-![alt text](image-19.png)
+![alt text](img/image-19.png)
 
 ### Quality Planning
 
@@ -278,4 +278,4 @@ A **Persona** is a fictional representation of a typical user based on research 
 
 - Review lecture 4 for detail
 
-![alt text](image-20.png)
+![alt text](img/image-20.png)
