@@ -4,17 +4,37 @@
 
 ![alt text](img/image.png)
 
+- Time complexity:
+  - Best - O(n)
+  - Average - O(n^2)
+  - Worst - O(n^2)
+
 ## Selection Sort
 
 ![alt text](img/image-1.png)
+
+- Time complexity:
+  - Best - O(n^2)
+  - Average - O(n^2)
+  - Worst - O(n^2)
 
 ## Bubble Sort
 
 ![alt text](img/image-2.png)
 
+- Time complexity:
+  - Best - O(n)
+  - Average - O(n^2)
+  - Worst - O(n^2)
+
 ## Quick Sort
 
 ![alt text](img/image-5.png)
+
+- Time complexity:
+  - Best - O(log n)
+  - Average - O(n log n)
+  - Worst - O(n^2)
 
 ## Merge Sort
 
@@ -24,13 +44,33 @@
 
 ![alt text](img/image-3.png)
 
+- Time complexity:
+  - Best - O(1)
+  - Average - O(n)
+  - Worst - O(n)
+
 ## Binary Search
 
 ![alt text](img/image-4.png)
 
+- Time complexity:
+  - Best - O(1)
+  - Average - O(log n)
+  - Worst - O(log n)
+
 ## BigO
 
 ![alt text](img/image-7.png)
+
+### Common complexities (fastest to slowest):
+
+- O(1) - Constant: same time regardless of input (array index lookup)
+- O(log n) - Logarithmic: halving data each step (binary search)
+- O(n) - Linear: processing each item once (simple loop)
+- O(n log n) - Linearithmic: efficient sorting (merge sort)
+- O(n²) - Quadratic: nested loops (bubble sort)
+- O(2ⁿ) - Exponential: doubling for each input (recursive Fibonacci)
+- O(n!) - Factorial: permutations (traveling salesman brute force)
 
 # Linked Lists
 
@@ -77,6 +117,9 @@
 - Pre-order - root, left, right
 - In-order - lef, root, right
 - Post-order - left, right, root
+- Left child of index -- i = 2i
+- Right child of index -- i = 2i + 1
+- Parent of index -- i / 2
 
 ## Heaps
 
