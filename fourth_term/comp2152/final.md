@@ -22,6 +22,9 @@
 - `sys.path` — module search path
 - `sys.exit()` — exit the program
 - `sys.stdin`, `sys.stdout`, `sys.stderr`
+- `sys.version` - returns python version
+
+
 
 #### The `os` Module
 https://docs.python.org/3/library/os.html
@@ -38,6 +41,10 @@ https://docs.python.org/3/library/platform.html
 - `platform.system()` — OS name
 - `platform.version()`, `platform.machine()`
 - `platform.python_version()`
+- `platform.node()` - same thing with hostname
+- `platform.release()` - returns os version, kernel version for Linux
+- `platform.machine()` - returns local machine name
+
 
 #### The `subprocess` Module
 https://docs.python.org/3/library/subprocess.html
@@ -51,14 +58,20 @@ https://docs.python.org/3/library/subprocess.html
 #### Forking and Piping
 
 - What is a process fork?
+    - When fork() called, os divides current process into 2
+    - Parent process -- original
+    - Child process -- copy, pid = 0
 - Pipes: communication between processes
 - `os.fork()`, `os.pipe()`
 
 #### The `socket` Module
 
 - What is a socket?
+    - Used for data transfer between 2 computers or 2 different program on a    single computer.
 - Creating a TCP server and client
 - `socket.socket()`, `bind()`, `listen()`, `accept()`, `connect()`, `send()`, `recv()`
+
+
 
 ### Unit Testing
 
@@ -74,7 +87,7 @@ https://docs.python.org/3/library/subprocess.html
 
 ---
 
-# 2 — Python & Databases
+# 2 — Python & Database
 
 ## Python Topics
 
